@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Hey there! I'm Patrick Brando
@@ -15,16 +16,17 @@
 
 ## 🚀 About Me
 
-```typescript
+```javascript
+// Olá! Sou Patrick Brando
 const patrick = {
-    name: "Patrick Brando",
-    role: "Systems Analysis & Development Student",
-    location: "Brazil 🇧🇷",
-    focus: ["Automation", "RPA Solutions", "Web Development"],
-    currentlyLearning: ["Python", "React", "Next.js", "TypeScript"],
-    yearStarted: 2024,
-    passion: "Creating solutions that bridge IT and business operations",
-    funFact: "I turn complex problems into elegant automated solutions ⚡"
+  nome: "Patrick Brando",
+  ocupacao: "Estudante de Análise e Desenvolvimento de Sistemas",
+  localizacao: "Brasil 🇧🇷",
+  foco: ["Automação", "Soluções RPA", "Desenvolvimento Web"],
+  aprendendoAtualmente: ["Python", "React", "Next.js", "TypeScript"],
+  anoDeInicio: 2024,
+  paixao: "Criar soluções que conectam TI e operações de negócios",
+  curiosidade: "Transformo problemas complexos em soluções automatizadas elegantes ⚡"
 };
 ```
 
@@ -41,12 +43,12 @@ const patrick = {
 
 <div align="center">
 
-### 🔥 **Languages & Frameworks**
+### 🔥 **Linguagens e Frameworks**
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,c,html,css" alt="Tech Stack" />
 </p>
 
-### 🛠️ **Tools & Technologies**
+### 🛠️ **Ferramentas e Tecnologias**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,bash,tailwind,vercel" alt="Tools" />
 </p>
