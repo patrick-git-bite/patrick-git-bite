@@ -158,17 +158,6 @@ interesses:
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-### 🐍 **Veja a Cobra Comer Minhas Contribuições!**
-
-<img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/snake.svg" alt="Snake Animation" />
-
-</div>
-
 ---
 
 ## Referências
