@@ -2,70 +2,57 @@
 
 # 👋 Olá! Eu sou Patrick Brando
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Analista+de+TI+com+Autonomia+Total;Engenheiro+de+Automa%C3%A7%C3%A3o+%26+RPA;Desenvolvedor+Full-Stack+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desenvolvedor+%26+Analista+de+Sistemas;Em+Constante+Aprendizado+%26+Evolu%C3%A7%C3%A3o;Focado+em+Solu%C3%A7%C3%B5es+Simples+e+Acess%C3%ADveis" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patrick-git-bite&color=3b82f6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/patrick-git-bite?color=3b82f6&style=for-the-badge&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=patrick-git-bite&color=3b82f6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/patrick-git-bite?color=3b82f6&style=for-the-badge&label=Followers" alt="Followers" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre Mim & Filosofia
 
-```javascript
-// Olá! Sou Patrick Brando
-const patrick = {
-  nome: "Patrick Brando",
-  ocupacao: "Analista de TI Autônomo & Estudante de Análise e Desenvolvimento de Sistemas",
-  experiencia: "Responsável único pela área de TI (Full-Stack, RPA, Infraestrutura e Estratégia) [1]",
-  localizacao: "Brasil 🇧🇷",
-  foco: ["Automação de Processos (RPA)", "Desenvolvimento Full-Stack (Next.js/TS)", "Gestão Estratégica de TI"],
-  aprendendoAtualmente: ["C#", "Firebase", "Metodologias Ágeis (Scrum/Kanban)"],
-  paixao: "Otimizar operações de negócios e transformar problemas complexos em soluções automatizadas elegantes ⚡",
-  curiosidade: "Atuo com autonomia total, combinando desenvolvimento, automação e gestão estratégica de TI em meu papel atual."
-};
-```
+Sou Patrick Brando, um **Desenvolvedor e Analista de Sistemas em constante evolução**, apaixonado por tecnologia, games e natureza. Minha jornada é marcada pela curiosidade e pelo desejo de resolver problemas através da inovação, focando em soluções que geram valor real.
 
-<div align="center">
+Acredito que não é preciso ser um especialista sênior para fazer a diferença. Com **dedicação, estudo constante e muita transparência**, busco ajudar **pequenos negócios, empreendedores e pessoas** que precisam de soluções tecnológicas simples, acessíveis e eficazes.
 
-### 🎯 **Minha Missão Atual**
-*Liderar a transformação digital em meu ambiente de trabalho, construindo **soluções RPA de alto impacto** e **aplicações web profissionais** que otimizam processos e geram valor estratégico para o negócio.*
+### 💡 **Minha Missão**
+> "Prefiro ser honesto sobre meu nível atual e entregar com qualidade do que prometer algo além das minhas capacidades. Cada projeto é uma chance de aprender e crescer juntos, com foco em otimizar operações e gerar valor."
 
-</div>
+* **Ocupação:** Analista de TI Autônomo & Estudante de Análise e Desenvolvimento de Sistemas.
+* **Foco Principal:** Automação de Processos (RPA), Desenvolvimento Web Simples e Suporte Técnico.
+* **Aprendendo Atualmente:** JavaScript, React, Node.js, Power BI.
+* **Localização:** Brasil 🇧🇷
 
 ---
 
-## 💻 Stack Tecnológica & Habilidades
+## 💻 Stack Tecnológica & Nível de Experiência
+
+Para ser transparente e alinhar com meu site, classifico minhas competências atuais em três níveis.
 
 <div align="center">
 
-### 🔥 **Linguagens e Frameworks**
+### 🔥 **Linguagens e Ferramentas**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,c,html,css,cs" alt="Tech Stack" />
-</p>
-
-### 🛠️ **Ferramentas e Tecnologias**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,bash,tailwind,vercel,firebase,googlecloud" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,c,html,css,cs,firebase,git,github,vscode,tailwind,vercel,googlecloud" alt="Tech Stack" />
 </p>
 
 </div>
 
 <details>
-<summary><b>📊 Proficiência e Experiência</b></summary>
+<summary><b>📊 Proficiência Transparente</b></summary>
 <br>
 
-| Tecnologia | Proficiência | Experiência Principal |
+| Categoria | Tecnologia | Nível Atual |
 |:------------|:-------------|:------------|
-| **Python** | ████████░░ 85% | Automação (RPA/Scripts) & Análise de Dados |
-| **JavaScript/TS** | ████████░░ 85% | Desenvolvimento Full-Stack (Next.js) |
-| **React/Next.js** | █████████░ 90% | Construção de Aplicações Empresariais [1] |
-| **RPA (UiPath)** | ████████░░ 80% | Liderança em projetos de Automação [1] |
-| **C#** | ███████░░░ 70% | Desenvolvimento de Aplicações Internas [1] |
-| **Infraestrutura** | ███████░░░ 75% | Gestão de Servidores, Redes e Segurança (Firewalls) [1] |
+| **Avançado** | Ferramentas Office | *Uso Profissional Diário* |
+| **Intermediário** | Python, Lógica de Programação, Git & GitHub, VS Code, Google Cloud | *Projetos Reais Implementados* |
+| **Básico** | C#, HTML & CSS, SQL & Banco de Dados, TypeScript, Firebase, Windows Server | *Fundamentos Estabelecidos* |
+| **Aprendendo/Iniciante**| JavaScript, React, Node.js, Power BI | *Estudo Focado e Em Andamento* |
+| **Outros** | RPA (UiPath), Infraestrutura, Metodologias Ágeis | *Experiência Profissional Atual* |
 
 </details>
 
@@ -73,119 +60,54 @@ const patrick = {
 
 ## 🎨 Projetos em Destaque
 
-*Projetos que demonstram minha capacidade de ir do código à estratégia de TI, com foco em resultados de negócio.*
+*Projetos que demonstram minha capacidade de ir do código ao resultado, com foco em aprendizado e soluções reais.*
 
 <div align="center">
 
-| Projeto | Foco | Tecnologias Chave | Link |
+| Projeto | Foco | Tecnologias Chave | Detalhes |
 |:---------------:|:-------------------:|:-----------------:|:------------------:|
-| **AssetWise** | Gestão de Ativos de TI | Next.js, TypeScript, Firebase, Google AI | [Ver Portfólio](https://portfolio-patrick-brando.vercel.app/) |
-| **Flux Finance** | Gestão Financeira Pessoal | Next.js, Firebase, TypeScript | [Ver Portfólio](https://portfolio-patrick-brando.vercel.app/) |
-| **Automação RPA** | Otimização de Processos | Python, UiPath, Outlook | [Ver Repositório](https://github.com/patrick-git-bite/RPA) |
-| **Análise Financeira** | Data Analysis & BI | Python, Pandas, Matplotlib | [Ver Repositório](https://github.com/patrick-git-bite/Analise-financeiro) |
+| **AssetWise** | Gestão de Ativos de TI (Projeto Empresarial) | Next.js, TypeScript, Firebase, Google AI | [Ver Portfólio](https://portfolio-patrick-brando.vercel.app/) |
+| **Flux Finance** | Gestão Financeira Pessoal (MVP) | Next.js, Firebase, TypeScript | [Ver Portfólio](https://portfolio-patrick-brando.vercel.app/) |
+| **Automação RPA** | Otimização de Processos (e-mail/arquivos) | Python, UiPath, Outlook | [Ver Repositório](https://github.com/patrick-git-bite/RPA) |
+| **Análise Financeira** | Data Analysis & BI Simples | Python, Pandas, Matplotlib | [Ver Repositório](https://github.com/patrick-git-bite/Analise-financeiro) |
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 🎓 Minha Jornada de Aprendizado
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrick-git-bite&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-git-bite&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-git-bite&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=f97316&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patrick-git-bite&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=f97316" alt="Activity Graph" />
-</div>
-
----
-
-## 🌟 O Que Estou Buscando
-
-*Minha evolução é contínua. Foco em aprofundar minhas habilidades técnicas e estratégicas para gerar ainda mais valor.*
+*Foco em aprofundar minhas habilidades técnicas e estratégicas, seguindo um plano de crescimento estruturado.*
 
 ```yaml
 current_focus:
-  - 🚀 Aplicar a experiência Full-Stack e de Automação em novos desafios de negócio.
-  - 💡 Aprofundar a gestão estratégica de TI, BI e Governança.
-  - 🤖 Expandir o uso de UiPath e Python para automações complexas.
-  - 📚 Concluir a graduação em Análise e Desenvolvimento de Sistemas.
+  - 💡 Aprofundar o domínio de JavaScript, React e Node.js para aplicações web.
+  - 📚 Concluir a Graduação em Análise e Desenvolvimento de Sistemas (2027).
+  - 🚀 Expandir o uso de UiPath e Python para automações mais robustas.
+  - 🎓 Obter certificações em Cloud Computing (Google Cloud).
 
 objetivos_proximos:
-  - 🤝 Buscar oportunidades de colaboração em projetos de código aberto.
-  - 📈 Desenvolver um novo dashboard de BI utilizando ferramentas avançadas.
-  - 🔧 Criar um artigo técnico detalhando a implementação do AssetWise.
-  - 🎓 Obter certificações em Cloud Computing (Google Cloud).
+  - 🤝 Buscar oportunidades de colaboração em projetos de código aberto.
+  - 📊 Desenvolver um novo dashboard de BI utilizando Power BI/Looker Studio.
+  - 🔧 Criar um artigo técnico detalhando a implementação do AssetWise.
+  <div align="center">    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrick-git-bite&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9"/>    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-git-bite&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/> </div>
 
-interesses:
-  - 💡 Otimização de Processos e Eficiência Operacional
-  - 🎨 Design de Sistemas e Arquitetura de Software
-  - 📈 Data Analysis e Business Intelligence
-  - 🧩 Resolução de Problemas e Algoritmos
-```
-
----
-
-## 🤝 Vamos Conectar!
-
+<div align="center">    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-git-bite&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=f97316&currStreakLabel=c9d1d9" alt="GitHub Streak" /> </div>
 <div align="center">
 
-### 💬 **Pronto para colaborar? Vamos construir algo incrível juntos!**
-
-<p>
-  <a href="https://www.linkedin.com/in/patrick-brando">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/patrick_brando_?igsh=MWpjNG1wOG81Mmp4MA==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:ppatrickbrando18102003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/qr/GQUG62M2EH6RD1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
-### 🌐 **Portfólio**
-<a href="https://portfolio-patrick-brando.vercel.app">
-  <img src="https://img.shields.io/badge/Portfólio-Visite_Agora-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
+<p>    <a href="https://www.linkedin.com/in/patrick-brando">      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />    </a>    <a href="mailto:ppatrickbrando18102003@gmail.com">      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />    </a>    <a href="https://wa.me/qr/GQUG62M2EH6RD1">      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />    </a> </p>
+<a href="https://portfolio-patrick-brando.vercel.app">    <img src="https://img.shields.io/badge/Portfólio-Visite_Agora-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /> </a>
 
 </div>
-
----
-
 <div align="center">
 
-### 🐍 **Veja a Cobra Comer Minhas Contribuições!**
-
+🐍 Veja a Cobra Comer Minhas Contribuições!
 <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/snake.svg" alt="Snake Animation" />
 
 </div>
 
----
-
-## Referências
-
-[1] Detalhes da experiência profissional como Analista/Suporte de TI com autonomia total, incluindo Full-Stack, RPA, Infraestrutura e Gestão Estratégica, conforme detalhado no [Portfólio - Patrick Brando](https://portfolio-patrick-brando.vercel.app/).
-
----
-
 <div align="center">
-
-**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House**
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF" />
-
----
-
-<sub>💙 Feito com dedicação e muito ☕ por Patrick Brando</sub>
+<sub>💙 Feito com dedicação, honestidade e muito ☕ por Patrick Brando</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=100&section=footer" alt="Footer Wave" />
 
