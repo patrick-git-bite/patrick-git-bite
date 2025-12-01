@@ -19,11 +19,11 @@
 // Olá! Sou Patrick Brando
 const patrick = {
   nome: "Patrick Brando",
-  ocupacao: "Analista de TI Autônomo & Estudante de Análise e Desenvolvimento de Sistemas",
-  experiencia: "Responsável único pela área de TI (Full-Stack, RPA, Infraestrutura e Estratégia) [1]",
+  ocupacao: "Analista de TI & Estudante de Análise e Desenvolvimento de Sistemas",
+  experiencia: "Responsável pela área de TI (Full-Stack, RPA, Infraestrutura e Estratégia) [1]",
   localizacao: "Brasil 🇧🇷",
-  foco: ["Automação de Processos (RPA)", "Desenvolvimento Full-Stack (Next.js/TS)", "Gestão Estratégica de TI"],
-  aprendendoAtualmente: ["C#", "Firebase", "Metodologias Ágeis (Scrum/Kanban)"],
+  foco: ["BI e Gestão de negocios", "Desenvolvimento Full-Stack (Next.js/TS)", "Gestão Estratégica de TI"],
+  aprendendoAtualmente: ["C", "Firebase", "Metodologias Ágeis (Scrum/Kanban)"],
   paixao: "Otimizar operações de negócios e transformar problemas complexos em soluções automatizadas elegantes ⚡",
   curiosidade: "Atuo com autonomia total, combinando desenvolvimento, automação e gestão estratégica de TI em meu papel atual."
 };
