@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:00FFFF&height=200&section=header&text=Patrick%20Brando&fontSize=70&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:00FFFF&height=200&section=header&text=Patrick%20Brando&fontSize=70&fontAlignY=35&animation=twinkling" width="100%](https://video-previews.elements.envatousercontent.com/files/98aa97d0-2ed8-499d-94d3-6209a9322a06/video_preview_h264.mp4)" alt="Header Banner"/>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 ### <p align="center">🚀 Minha Missão: Transformar Dados em Valor e Código em Soluções de Impacto</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/t7sEnf6i3Zq2ePdb3j/giphy.gif" width="250" alt="Astronaut Coding"/>
+  <img src="[https://media.giphy.com/media/t7sEnf6i3Zq2ePdb3j/giphy.gif" width="250" alt="Astronaut Coding](https://iconscout.com/lottie-animation/back-end-developer-animation_3428942)"/>
 </div>
 
 Sou um profissional movido pela curiosidade e pela busca incessante de otimização. Minha jornada na **Detella Restaurantes Empresariais** me deu autonomia para arquitetar e implementar soluções de ponta a ponta, desde a **infraestrutura em Google Cloud** até o **desenvolvimento de aplicações web modernas** com Next.js e TypeScript. Acredito que a tecnologia é a ponte entre a estratégia de negócio e resultados exponenciais.
@@ -51,9 +51,9 @@ Sou um profissional movido pela curiosidade e pela busca incessante de otimizaç
 
 | Projeto | GIF de Demonstração | Descrição & Tecnologias |
 | :--- | :---: | :--- |
-| **AssetWise** | <img src="https://media.giphy.com/media/l41lXy5oD2qa1a640/giphy.gif" width="200"> | **Gestão Inteligente de Ativos de TI.** Uma solução completa construída com **Next.js, Firebase e Google AI** para otimizar o controle de inventário. | 
-| **Flux Finance** | <img src="https://media.giphy.com/media/3o7buakB6s61Wf13sA/giphy.gif" width="200"> | **Sua vida financeira sob controle.** Plataforma multi-usuário para gestão de finanças pessoais, usando **Next.js, Firebase e TypeScript**. | 
-| **Análise Financeira** | <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTXy/giphy.gif" width="200"> | **Insights a partir de dados brutos.** Ferramenta para análise comparativa de dados financeiros, desenvolvida com **Python, Pandas e Matplotlib**. | 
+| **AssetWise** | <img src="http://googleusercontent.com/image_collection/image_retrieval/662749031297378713_0" width="200"> | **Gestão Inteligente de Ativos de TI.** Uma solução completa construída com **Next.js, Firebase e Google AI** para otimizar o controle de inventário. | 
+| **Flux Finance** | <img src="http://googleusercontent.com/image_collection/image_retrieval/11149983095047384116_0" width="200"> | **Sua vida financeira sob controle.** Plataforma multi-usuário para gestão de finanças pessoais, usando **Next.js, Firebase e TypeScript**. | 
+| **Análise Financeira** | <img src="http://googleusercontent.com/image_collection/image_retrieval/2006361085822972383_0" width="200"> | **Insights a partir de dados brutos.** Ferramenta para análise comparativa de dados financeiros, desenvolvida com **Python, Pandas e Matplotlib**. | 
 
 </div>
 
