@@ -20,16 +20,16 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Cloud+%26+Data+Architect+%F0%9F%93%A1;Full-Stack+Problem+Solver+%E2%9A%A1;Passionate+about+Tech+%26+Innovation+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=CRM+Developer+%40+DataCrazy+%F0%9F%9A%80;Full-Stack+%7C+NestJS+%7C+Next.js;Microsservi%C3%A7os+%7C+Kafka+%7C+Docker+%E2%9A%A1;Passionate+about+Tech+%26+Innovation+%F0%9F%94%A5" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
 
-**🇧🇷** *Analista de TI com foco em* ***Desenvolvimento Full-Stack***, ***Cloud (GCP)*** *e* ***Dados***
+**🇧🇷** *Desenvolvedor Full-Stack no* ***DataCrazy CRM*** — *NestJS · Next.js · PostgreSQL · Kafka · Docker*
 &nbsp;·&nbsp;
-**🇺🇸** *IT Analyst focused on* ***Full-Stack Development***, ***Cloud (GCP)*** *and* ***Data***
+**🇺🇸** *Full-Stack Developer at* ***DataCrazy CRM*** — *NestJS · Next.js · PostgreSQL · Kafka · Docker*
 
 </div>
 
@@ -43,14 +43,14 @@
 
 **🇧🇷 PT**
 
-Transformar **Dados em Valor** e **Código em Soluções de Impacto**. Sou um profissional movido pela curiosidade e pela busca incessante de otimização. Na **Detella Restaurantes Empresariais**, tenho autonomia total para arquitetar soluções de ponta a ponta — da **infraestrutura em Google Cloud** ao **desenvolvimento web moderno** com Next.js e TypeScript.
+Transformar **Código em Produto** e **Dados em Decisão**. Sou desenvolvedor Full-Stack no **DataCrazy CRM**, construindo soluções de alto desempenho com **NestJS**, **Next.js**, **PostgreSQL**, **Redis** e **Kafka**. Apaixonado por microsserviços, arquitetura escalável e pelo poder do **Docker** no dia a dia.
 
 </td>
 <td width="50%" valign="top" align="left">
 
 **🇺🇸 EN**
 
-Turn **Data into Value** and **Code into Impact Solutions**. I'm a professional driven by curiosity and the relentless pursuit of optimization. At **Detella Restaurantes Empresariais**, I have full autonomy to architect end-to-end solutions — from **Google Cloud infrastructure** to **modern web development** with Next.js and TypeScript.
+Turning **Code into Product** and **Data into Decisions**. I'm a Full-Stack Developer at **DataCrazy CRM**, building high-performance solutions with **NestJS**, **Next.js**, **PostgreSQL**, **Redis** and **Kafka**. Passionate about microservices, scalable architecture and the power of **Docker** in daily workflows.
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ Turn **Data into Value** and **Code into Impact Solutions**. I'm a professional 
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,nextjs,react,ts,js,nodejs,python,tailwind,git,github,vscode,figma,linux,flutter&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,nodejs,postgres,redis,docker,python,tailwind,git,github,vscode,linux&perline=8" alt="Tech Stack"/>
 </div>
 
 <br>
@@ -70,10 +70,12 @@ Turn **Data into Value** and **Code into Impact Solutions**. I'm a professional 
 
 | Categoria / Category | Tecnologias / Technologies |
 | :--- | :--- |
-| ☁️ **Cloud & Infra** | GCP, Firebase, BigQuery, Cloud Functions, Vercel |
-| 💻 **Full-Stack** | Next.js, React, TypeScript, Flutter, Node.js, TailwindCSS |
-| 📊 **Data & BI** | Python (Pandas, Matplotlib), SQL, Looker Studio, Power BI |
-| ⚙️ **Tools** | Git, GitHub, VS Code, Figma, Linux, Scrum |
+| 🖥️ **Backend** | NestJS, Node.js, TypeScript, Python |
+| 🌐 **Frontend** | Next.js, React, TailwindCSS |
+| 🗄️ **Banco de Dados / Database** | PostgreSQL, Redis |
+| 📨 **Mensageria / Messaging** | Apache Kafka |
+| 🐳 **Infra & DevOps** | Docker, Ubuntu Linux |
+| ⚙️ **Tools** | Git, GitHub, VS Code, Scrum |
 
 </div>
 
