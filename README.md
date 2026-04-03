@@ -149,8 +149,8 @@ Turning **Code into Product** and **Data into Decisions**. I'm a Full-Stack Deve
 <h3 align="center">🎧 Now Playing on Spotify</h3>
 
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ph2epd4fhtmgraaw5rt3o6281&cover_image=true&theme=default&show_offline=true&background_color=0D1117&interchange=false&bar_color=00FFFF&bar_color_cover=true" alt="Spotify Now Playing" width="420"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kttkshwog2h2ntdc3haxb913p&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kttkshwog2h2ntdc3haxb913p&cover_image=true&theme=default&show_offline=true&background_color=0D1117&interchange=false&bar_color=00FFFF&bar_color_cover=true" alt="Spotify Now Playing" width="420"/>
   </a>
 </div>
 
