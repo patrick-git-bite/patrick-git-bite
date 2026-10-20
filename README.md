@@ -36,28 +36,34 @@
 
 **PT**
 
-Sou dev Full-Stack no **DataCrazy CRM**. Meu dia a dia é sustentação e evolução do produto: pego bug de produção, acho a causa raiz e corrijo mexendo no mínimo possível. Também faço code review das PRs do time.
+Sou desenvolvedor Full-Stack no **DataCrazy CRM**, trabalhando na manutenção e evolução de um produto em produção. Minha rotina envolve investigar bugs, identificar causas raiz e implementar correções pontuais, priorizando a estabilidade do sistema e evitando mudanças desnecessárias. Também participo de code reviews, contribuindo para a qualidade e consistência do código.
 
-- Integrações com **WhatsApp Cloud API** (Meta) e webhooks
-- Cobrança recorrente com **Stripe**: assinaturas, upgrade, downgrade e proration
-- Backend em **NestJS** com **Prisma**, **PostgreSQL** e **MongoDB**
-- Front em **Next.js** e **React** com Tailwind e Radix UI
+No dia a dia, trabalho com:
 
-Fora do trabalho curso **Análise e Desenvolvimento de Sistemas** e estudo POO com Java, que acabou virando o **CodeQuest**.
+- **Integrações:** WhatsApp Cloud API (Meta) e webhooks.
+- **Mensageria:** Apache Kafka e processamento assíncrono de eventos.
+- **Pagamentos:** Stripe, com assinaturas recorrentes, upgrades, downgrades e proration.
+- **Backend:** NestJS, Prisma, PostgreSQL e MongoDB.
+- **Frontend:** Next.js, React, Tailwind CSS e Radix UI.
+
+Fora do trabalho, curso **Análise e Desenvolvimento de Sistemas** e estudo orientação a objetos com Java, C# e C++.
 
 </td>
 <td width="50%" valign="top" align="left">
 
 **EN**
 
-I'm a Full-Stack Developer at **DataCrazy CRM**. Most of my day is keeping the product healthy and moving forward: I take production bugs, find the root cause and fix them with the smallest possible change. I also review my team's pull requests.
+I'm a Full-Stack Developer at **DataCrazy CRM**, working on maintaining and evolving a production application. My day-to-day involves investigating bugs, identifying root causes, and implementing targeted fixes while prioritizing system stability and avoiding unnecessary changes. I also participate in code reviews to help maintain code quality and consistency.
 
-- **WhatsApp Cloud API** (Meta) integrations and webhooks
-- Recurring billing with **Stripe**: subscriptions, upgrades, downgrades and proration
-- Backend with **NestJS**, **Prisma**, **PostgreSQL** and **MongoDB**
-- Frontend with **Next.js** and **React**, plus Tailwind and Radix UI
+My work includes:
 
-Outside work I'm studying **Systems Analysis and Development** and learning OOP with Java, which turned into **CodeQuest**.
+- **Integrations:** WhatsApp Cloud API (Meta) and webhooks.
+- **Messaging:** Apache Kafka and asynchronous event processing.
+- **Payments:** Stripe recurring billing, subscriptions, upgrades, downgrades, and proration.
+- **Backend:** NestJS, Prisma, PostgreSQL, and MongoDB.
+- **Frontend:** Next.js, React, Tailwind CSS, and Radix UI.
+
+Outside work, I'm pursuing a degree in **Systems Analysis and Development** and studying object-oriented programming with Java.
 
 </td>
 </tr>
@@ -116,8 +122,8 @@ Outside work I'm studying **Systems Analysis and Development** and learning OOP 
 <h3 align="center">Tocando agora | Now Playing</h3>
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kttkshwog2h2ntdc3haxb913p&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kttkshwog2h2ntdc3haxb913p&cover_image=true&theme=default&show_offline=true&background_color=0D1117&interchange=false&bar_color=00FFFF&bar_color_cover=true" alt="Spotify Now Playing" width="420"/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kttkshwog2h2ntdc3haxb913p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" width="420"/>
   </a>
 </div>
 
