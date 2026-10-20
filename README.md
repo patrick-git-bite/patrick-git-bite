@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:00FFFF&height=220&section=header&text=Patrick%20Brando&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Cloud%20%7C%20Full-Stack%20%7C%20Data&descAlignY=58&descSize=22" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:00FFFF&height=220&section=header&text=Patrick%20Brando&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20DataCrazy%20CRM&descAlignY=58&descSize=22" width="100%" alt="Header Banner"/>
 </div>
 
 <div align="center">
@@ -14,43 +14,50 @@
   </a>&nbsp;
   <a href="https://wa.me/qr/GQUG62M2EH6RD1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/patrick_brando_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=CRM+Developer+%40+DataCrazy+%F0%9F%9A%80;Full-Stack+%7C+NestJS+%7C+Next.js;Microsservi%C3%A7os+%7C+Kafka+%7C+Docker+%E2%9A%A1;Passionate+about+Tech+%26+Innovation+%F0%9F%94%A5" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-
-**🇧🇷** *Desenvolvedor Full-Stack no* ***DataCrazy CRM*** — *NestJS · Next.js · PostgreSQL · Kafka · Docker*
-&nbsp;·&nbsp;
-**🇺🇸** *Full-Stack Developer at* ***DataCrazy CRM*** — *NestJS · Next.js · PostgreSQL · Kafka · Docker*
-
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Full-Stack+Developer+%40+DataCrazy+CRM;NestJS+%7C+Next.js+%7C+Prisma+%7C+MongoDB;WhatsApp+Cloud+API+%7C+Stripe+%7C+Kafka;Estudante+de+ADS+%7C+POO+com+Java" alt="Typing SVG"/>
 </div>
 
 ---
 
-<h3 align="center">🚀 Minha Missão | My Mission</h3>
+<h3 align="center">Sobre mim | About me</h3>
 
 <table align="center" border="0" cellspacing="0" cellpadding="16">
 <tr>
 <td width="50%" valign="top" align="left">
 
-**🇧🇷 PT**
+**PT**
 
-Transformar **Código em Produto** e **Dados em Decisão**. Sou desenvolvedor Full-Stack no **DataCrazy CRM**, construindo soluções de alto desempenho com **NestJS**, **Next.js**, **PostgreSQL**, **Redis** e **Kafka**. Apaixonado por microsserviços, arquitetura escalável e pelo poder do **Docker** no dia a dia.
+Sou dev Full-Stack no **DataCrazy CRM**. Meu dia a dia é sustentação e evolução do produto: pego bug de produção, acho a causa raiz e corrijo mexendo no mínimo possível. Também faço code review das PRs do time.
+
+- Integrações com **WhatsApp Cloud API** (Meta) e webhooks
+- Cobrança recorrente com **Stripe**: assinaturas, upgrade, downgrade e proration
+- Backend em **NestJS** com **Prisma**, **PostgreSQL** e **MongoDB**
+- Front em **Next.js** e **React** com Tailwind e Radix UI
+
+Fora do trabalho curso **Análise e Desenvolvimento de Sistemas** e estudo POO com Java, que acabou virando o **CodeQuest**.
 
 </td>
 <td width="50%" valign="top" align="left">
 
-**🇺🇸 EN**
+**EN**
 
-Turning **Code into Product** and **Data into Decisions**. I'm a Full-Stack Developer at **DataCrazy CRM**, building high-performance solutions with **NestJS**, **Next.js**, **PostgreSQL**, **Redis** and **Kafka**. Passionate about microservices, scalable architecture and the power of **Docker** in daily workflows.
+I'm a Full-Stack Developer at **DataCrazy CRM**. Most of my day is keeping the product healthy and moving forward: I take production bugs, find the root cause and fix them with the smallest possible change. I also review my team's pull requests.
+
+- **WhatsApp Cloud API** (Meta) integrations and webhooks
+- Recurring billing with **Stripe**: subscriptions, upgrades, downgrades and proration
+- Backend with **NestJS**, **Prisma**, **PostgreSQL** and **MongoDB**
+- Frontend with **Next.js** and **React**, plus Tailwind and Radix UI
+
+Outside work I'm studying **Systems Analysis and Development** and learning OOP with Java, which turned into **CodeQuest**.
 
 </td>
 </tr>
@@ -58,95 +65,55 @@ Turning **Code into Product** and **Data into Decisions**. I'm a Full-Stack Deve
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,nodejs,postgres,redis,docker,python,tailwind,git,github,vscode,linux&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,nodejs,java,python,postgres,mongodb,redis,prisma,kafka,docker,tailwind,git,linux&perline=8" alt="Tech Stack"/>
 </div>
 
 <br>
 
 <div align="center">
 
-| Categoria / Category | Tecnologias / Technologies |
+| Área / Area | Tecnologias / Technologies |
 | :--- | :--- |
-| 🖥️ **Backend** | NestJS, Node.js, TypeScript, Python |
-| 🌐 **Frontend** | Next.js, React, TailwindCSS |
-| 🗄️ **Banco de Dados / Database** | PostgreSQL, Redis |
-| 📨 **Mensageria / Messaging** | Apache Kafka |
-| 🐳 **Infra & DevOps** | Docker, Ubuntu Linux |
-| ⚙️ **Tools** | Git, GitHub, VS Code, Scrum |
+| **Backend** | NestJS, Node.js, TypeScript, Java, Python |
+| **Frontend** | Next.js, React, TailwindCSS, Radix UI |
+| **Dados / Data** | PostgreSQL, MongoDB, Redis, Prisma |
+| **Integrações / Integrations** | WhatsApp Cloud API, Stripe, Webhooks, Apache Kafka |
+| **Infra** | Docker, PM2, Ubuntu Linux |
+| **Rotina / Workflow** | Git, code review, Scrum, VS Code |
 
 </div>
 
 ---
 
-<h3 align="center">🎨 Projetos em Destaque | Featured Projects</h3>
+<h3 align="center">Projetos | Projects</h3>
 
 <div align="center">
-<table border="0">
-<tr>
-<td align="center" width="33%">
-
-<a href="https://github.com/patrick-git-bite">
-  <img src="https://img.shields.io/badge/AssetWise-00FFFF?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="AssetWise"/>
-</a>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="AssetWise Demo"/>
-
-<br><br>
-<sub>🇧🇷 Gestão Inteligente de Ativos de TI</sub><br>
-<sub>🇺🇸 Smart IT Asset Management</sub>
-<br><br>
-<sub><code>Next.js</code> <code>Firebase</code> <code>Google AI</code></sub>
-<br>
-
-</td>
-<td align="center" width="33%">
-
-<a href="https://github.com/patrick-git-bite">
-  <img src="https://img.shields.io/badge/Flux_Finance-FF6B00?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Flux Finance"/>
-</a>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="220" alt="Flux Finance Demo"/>
-
-<br><br>
-<sub>🇧🇷 Plataforma Financeira Multi-usuário</sub><br>
-<sub>🇺🇸 Multi-user Finance Platform</sub>
-<br><br>
-<sub><code>Next.js</code> <code>Firebase</code> <code>TypeScript</code></sub>
-<br>
-
-</td>
-<td align="center" width="33%">
-
-<a href="https://github.com/patrick-git-bite">
-  <img src="https://img.shields.io/badge/Financial_Analysis-c9d1d9?style=for-the-badge&logo=python&logoColor=0D1117" alt="Financial Analysis"/>
-</a>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="220" alt="Financial Analysis Demo"/>
-
-<br><br>
-<sub>🇧🇷 Análise de Dados Financeiros</sub><br>
-<sub>🇺🇸 Financial Data Analysis</sub>
-<br><br>
-<sub><code>Python</code> <code>Pandas</code> <code>Matplotlib</code></sub>
-<br>
-
-</td>
-</tr>
-</table>
+  <a href="https://github.com/patrick-git-bite/CodeQuest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=CodeQuest&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="CodeQuest"/>
+  </a>
+  <a href="https://github.com/patrick-git-bite/Flux-Finance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=Flux-Finance&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="Flux Finance"/>
+  </a>
+  <a href="https://github.com/patrick-git-bite/DataCrazy-challanger-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=DataCrazy-challanger-backend&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="DataCrazy Challenge Backend"/>
+  </a>
+  <a href="https://github.com/patrick-git-bite/DataCrazy-challanger-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=DataCrazy-challanger-frontend&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="DataCrazy Challenge Frontend"/>
+  </a>
+  <a href="https://github.com/patrick-git-bite/Tournament-Manager-Ea-FC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=Tournament-Manager-Ea-FC&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="Tournament Manager EA FC"/>
+  </a>
+  <a href="https://github.com/patrick-git-bite/portfolio-Patrick-Brando">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=portfolio-Patrick-Brando&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
 
-<h3 align="center">🎧 Now Playing on Spotify</h3>
+<h3 align="center">Tocando agora | Now Playing</h3>
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kttkshwog2h2ntdc3haxb913p&redirect=true">
@@ -156,7 +123,7 @@ Turning **Code into Product** and **Data into Decisions**. I'm a Full-Stack Deve
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patrick-git-bite&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9" alt="GitHub Stats" height="185"/>
@@ -173,31 +140,23 @@ Turning **Code into Product** and **Data into Decisions**. I'm a Full-Stack Deve
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patrick-git-bite&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FF6B00&area=true&area_color=002D2D" alt="Activity Graph" width="820"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrick-git-bite&theme=radical" alt="Contribution Summary" width="820"/>
 </div>
 
 ---
 
-<h3 align="center">🤝 Vamos Construir o Futuro Juntos! | Let's Build the Future Together!</h3>
+<h3 align="center">Bora conversar | Let's talk</h3>
 
 <p align="center">
-  <b>🇧🇷</b> Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores.<br>
-  Se você tem uma ideia, um problema ou apenas quer trocar conhecimentos, <b>vamos conversar!</b>
+  Curte trocar ideia sobre integração, debug de produção ou só quer mostrar um projeto? Me chama em qualquer link lá de cima.
   <br><br>
-  <b>🇺🇸</b> I'm always looking for new challenges and opportunities to collaborate on innovative projects.<br>
-  If you have an idea, a problem, or just want to exchange knowledge, <b>let's talk!</b>
+  Into integrations, production debugging or just want to share a project? Reach out through any link above.
 </p>
 
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=patrick-git-bite&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" alt="Profile views"/>
-</div>
-
-<br>
-
-<div align="center">
-  <sub>⚡ <i>"Transformar Dados em Valor e Código em Soluções de Impacto"</i></sub>
 </div>
 
 <br>
