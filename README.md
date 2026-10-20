@@ -1,29 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:00FFFF&height=220&section=header&text=Patrick%20Brando&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20DataCrazy%20CRM&descAlignY=58&descSize=22" width="100%" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/header.svg" width="100%" alt="Header Banner"/>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/patrick-brando">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/badge-linkedin.svg" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://portfolio-patrick-brando.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/badge-portfolio.svg" alt="Portfolio"/>
   </a>&nbsp;
   <a href="mailto:ppatrickbrando18102003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/badge-gmail.svg" alt="Gmail"/>
   </a>&nbsp;
   <a href="https://wa.me/qr/GQUG62M2EH6RD1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/badge-whatsapp.svg" alt="WhatsApp"/>
   </a>&nbsp;
   <a href="https://www.instagram.com/patrick_brando_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/badge-instagram.svg" alt="Instagram"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Full-Stack+Developer+%40+DataCrazy+CRM;NestJS+%7C+Next.js+%7C+Prisma+%7C+MongoDB;WhatsApp+Cloud+API+%7C+Stripe+%7C+Kafka;Estudante+de+ADS+%7C+POO+com+Java" alt="Typing SVG"/>
+  <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/typing.svg" alt="Typing SVG"/>
 </div>
 
 ---
@@ -74,7 +74,7 @@ Outside work, I'm pursuing a degree in **Systems Analysis and Development** and 
 <h3 align="center">Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,nodejs,java,python,postgres,mongodb,redis,prisma,kafka,docker,tailwind,git,linux&perline=8" alt="Tech Stack"/>
+  <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/stack.svg" alt="Tech Stack"/>
 </div>
 
 <br>
@@ -98,22 +98,22 @@ Outside work, I'm pursuing a degree in **Systems Analysis and Development** and 
 
 <div align="center">
   <a href="https://github.com/patrick-git-bite/CodeQuest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=CodeQuest&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="CodeQuest"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/pin-codequest.svg" alt="CodeQuest"/>
   </a>
   <a href="https://github.com/patrick-git-bite/Flux-Finance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=Flux-Finance&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="Flux Finance"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/pin-flux-finance.svg" alt="Flux Finance"/>
   </a>
   <a href="https://github.com/patrick-git-bite/DataCrazy-challanger-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=DataCrazy-challanger-backend&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="DataCrazy Challenge Backend"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/pin-datacrazy-backend.svg" alt="DataCrazy Challenge Backend"/>
   </a>
   <a href="https://github.com/patrick-git-bite/DataCrazy-challanger-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=DataCrazy-challanger-frontend&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="DataCrazy Challenge Frontend"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/pin-datacrazy-frontend.svg" alt="DataCrazy Challenge Frontend"/>
   </a>
   <a href="https://github.com/patrick-git-bite/Tournament-Manager-Ea-FC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=Tournament-Manager-Ea-FC&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="Tournament Manager EA FC"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/pin-tournament.svg" alt="Tournament Manager EA FC"/>
   </a>
   <a href="https://github.com/patrick-git-bite/portfolio-Patrick-Brando">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-git-bite&repo=portfolio-Patrick-Brando&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9" alt="Portfolio"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/pin-portfolio.svg" alt="Portfolio"/>
   </a>
 </div>
 
@@ -123,7 +123,7 @@ Outside work, I'm pursuing a degree in **Systems Analysis and Development** and 
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kttkshwog2h2ntdc3haxb913p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" width="420"/>
+    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/spotify.svg" alt="Spotify Now Playing" width="420"/>
   </a>
 </div>
 
@@ -132,21 +132,21 @@ Outside work, I'm pursuing a degree in **Systems Analysis and Development** and 
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrick-git-bite&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9" alt="GitHub Stats" height="185"/>
+  <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/stats.svg" alt="GitHub Stats" height="185"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-git-bite&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9" alt="Top Languages" height="185"/>
+  <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/top-langs.svg" alt="Top Languages" height="185"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-git-bite&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B00&currStreakLabel=c9d1d9" alt="GitHub Streak" width="540"/>
+  <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/streak.svg" alt="GitHub Streak" width="540"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrick-git-bite&theme=radical" alt="Contribution Summary" width="820"/>
+  <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/summary.svg" alt="Contribution Summary" width="820"/>
 </div>
 
 ---
@@ -168,5 +168,5 @@ Outside work, I'm pursuing a degree in **Systems Analysis and Development** and 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:00FFFF&height=120&section=footer" width="100%" alt="Footer"/>
+  <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/footer.svg" width="100%" alt="Footer"/>
 </div>

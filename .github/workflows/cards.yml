@@ -1,0 +1,79 @@
+name: Atualiza cards do README
+
+# Os cards ficam na branch output e o README lê via raw.githubusercontent, sem depender do proxy camo do GitHub
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/cards.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cards
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recupera cards anteriores
+        run: |
+          git clone --depth 1 --branch output "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" dist || mkdir -p dist
+          rm -rf dist/.git
+
+      - name: Baixa cards
+        working-directory: dist
+        run: |
+          baixar() {
+            if curl -sfL --retry 3 --max-time 30 -o "$1.tmp" "$2" && grep -q "<svg" "$1.tmp"; then
+              mv "$1.tmp" "$1"
+            else
+              rm -f "$1.tmp"
+              echo "::warning::Falhou ao baixar $1, mantendo a versão anterior"
+            fi
+          }
+
+          USER="patrick-git-bite"
+          PIN="theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=c9d1d9"
+
+          baixar header.svg "https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:00FFFF&height=220&section=header&text=Patrick%20Brando&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20DataCrazy%20CRM&descAlignY=58&descSize=22"
+          baixar footer.svg "https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:00FFFF&height=120&section=footer"
+
+          baixar badge-linkedin.svg "https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+          baixar badge-portfolio.svg "https://img.shields.io/badge/Portf%C3%B3lio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"
+          baixar badge-gmail.svg "https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+          baixar badge-whatsapp.svg "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+          baixar badge-instagram.svg "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+
+          baixar typing.svg "https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Full-Stack+Developer+%40+DataCrazy+CRM;NestJS+%7C+Next.js+%7C+Prisma+%7C+MongoDB;WhatsApp+Cloud+API+%7C+Stripe+%7C+Kafka;Estudante+de+ADS+%7C+POO+com+Java"
+          baixar stack.svg "https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,nodejs,java,python,postgres,mongodb,redis,prisma,kafka,docker,tailwind,git,linux&perline=8"
+
+          baixar pin-codequest.svg "https://github-readme-stats.vercel.app/api/pin/?username=$USER&repo=CodeQuest&$PIN"
+          baixar pin-flux-finance.svg "https://github-readme-stats.vercel.app/api/pin/?username=$USER&repo=Flux-Finance&$PIN"
+          baixar pin-datacrazy-backend.svg "https://github-readme-stats.vercel.app/api/pin/?username=$USER&repo=DataCrazy-challanger-backend&$PIN"
+          baixar pin-datacrazy-frontend.svg "https://github-readme-stats.vercel.app/api/pin/?username=$USER&repo=DataCrazy-challanger-frontend&$PIN"
+          baixar pin-tournament.svg "https://github-readme-stats.vercel.app/api/pin/?username=$USER&repo=Tournament-Manager-Ea-FC&$PIN"
+          baixar pin-portfolio.svg "https://github-readme-stats.vercel.app/api/pin/?username=$USER&repo=portfolio-Patrick-Brando&$PIN"
+
+          baixar spotify.svg "https://spotify-github-profile.kittinanx.com/api/view?uid=kttkshwog2h2ntdc3haxb913p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false"
+
+          baixar stats.svg "https://github-readme-stats.vercel.app/api?username=$USER&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9"
+          baixar top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=$USER&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9"
+          baixar streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=$USER&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B00&currStreakLabel=c9d1d9"
+          baixar summary.svg "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=$USER&theme=radical"
+
+          ls -la
+
+      - name: Publica na branch output
+        working-directory: dist
+        run: |
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Atualiza cards"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
