@@ -160,7 +160,7 @@ Outside work, I'm pursuing a degree in **Systems Analysis and Development** and 
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://raw.githubusercontent.com/patrick-git-bite/patrick-git-bite/output/spotify.svg" alt="Spotify Now Playing" width="420"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kttkshwog2h2ntdc3haxb913p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" width="420"/>
   </a>
 </div>
 
